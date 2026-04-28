@@ -49,7 +49,7 @@ A production-ready RAG system that improves retrieval accuracy by generating mul
 
 ---
 
-### 🗄️ [SQL Data Analysis Project (Parts 1–7)](https://github.com/kushalvishwak/SQL-Project-for-Data-Analysis-part-1-7-main)
+### 🗄️ [SQL-end-to-end-project-for-client-POC](https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC-main)
 > End-to-end SQL data analysis across 7 progressive modules
 
 A comprehensive SQL project covering DDL, DML, analytical functions, window functions, and real-world datasets (including animal bites and order management systems).
